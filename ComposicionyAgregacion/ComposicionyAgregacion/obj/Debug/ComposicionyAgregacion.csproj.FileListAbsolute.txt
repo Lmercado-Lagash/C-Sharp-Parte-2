@@ -1,0 +1,7 @@
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\bin\Debug\ComposicionyAgregacion.exe.config
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\bin\Debug\ComposicionyAgregacion.exe
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\bin\Debug\ComposicionyAgregacion.pdb
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\obj\Debug\ComposicionyAgregacion.csprojResolveAssemblyReference.cache
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\obj\Debug\ComposicionyAgregacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\obj\Debug\ComposicionyAgregacion.exe
+C:\Users\Luis\source\repos\ComposicionyAgregacion\ComposicionyAgregacion\obj\Debug\ComposicionyAgregacion.pdb
