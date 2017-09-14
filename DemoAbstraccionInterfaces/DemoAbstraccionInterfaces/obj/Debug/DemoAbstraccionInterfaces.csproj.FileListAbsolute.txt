@@ -1,0 +1,7 @@
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\bin\Debug\DemoAbstraccionInterfaces.exe.config
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\bin\Debug\DemoAbstraccionInterfaces.exe
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\bin\Debug\DemoAbstraccionInterfaces.pdb
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\obj\Debug\DemoAbstraccionInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\obj\Debug\DemoAbstraccionInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\obj\Debug\DemoAbstraccionInterfaces.exe
+C:\Users\Luis\source\repos\DemoAbstraccionInterfaces\DemoAbstraccionInterfaces\obj\Debug\DemoAbstraccionInterfaces.pdb
